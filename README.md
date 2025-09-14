@@ -5,8 +5,8 @@
 This Python program grades multiple-choice exams stored in a plain-text file.
 It performs **two grading approaches**:
 
-1. **Pure Python** (Tasks 1–4) – loops and dictionaries
-2. **Pandas / Numpy** (Task 5) – fully vectorized analysis
+1. **Using Python to solve all tasks** (Tasks 1–4) 
+2. **Using Pandas to solve all tasks (1-4)** (Task 5)
 
 Both approaches:
 
