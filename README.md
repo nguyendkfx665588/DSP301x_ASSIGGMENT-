@@ -1,8 +1,3 @@
-Here’s a **README.md** you can include with your project.
-It explains what the program does, the data format, and how to run it.
-
----
-
 ### README
 
 #### 1. Overview
