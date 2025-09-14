@@ -109,4 +109,3 @@ N00000023,B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D
 
 ---
 
-This README provides enough detail for anyone to understand the data format, run the grader, and interpret the results.
